@@ -1,8 +1,8 @@
-# Project Name: Exploratory Data Analysis on YouTube Data
+# Exploratory Data Analysis on YouTube Data
 
-# Domain: Social Media
+Domain: Social Media
 
-# Project Description:
+Project Description:
 
 In the dynamic landscape of social media, YouTube has played a significant role in shaping content consumption and user interactions. A pivotal moment occurred in November 2021 when YouTube decided to hide the number of dislikes from users, a decision met with mixed reactions. Fortunately, the YouTube Data API continued to provide access to dislikes data until December 13, 2021. This project is an Exploratory Data Analysis (EDA) exercise that aims to extract hidden insights from this unique dataset.
 
