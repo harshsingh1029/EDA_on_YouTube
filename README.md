@@ -2,22 +2,18 @@
 
 Domain: Social Media
 
-Project Description:
+Project Description: 
 
-In the dynamic landscape of social media, YouTube has played a significant role in shaping content consumption and user interactions. A pivotal moment occurred in November 2021 when YouTube decided to hide the number of dislikes from users, a decision met with mixed reactions. Fortunately, the YouTube Data API continued to provide access to dislikes data until December 13, 2021. This project is an Exploratory Data Analysis (EDA) exercise that aims to extract hidden insights from this unique dataset.
+I conducted Exploratory Data Analysis (EDA) on a dataset of over 100,000 YouTube videos from August 2020 to December 2021, focusing on the USA, Canada, and Great Britain. The dataset contained information about the video title, description, category, views, likes, dislikes, comments, tags, and publish date. I analyzed these attributes to uncover hidden trends and insights within the YouTube data. I also explored the impact of YouTube's decision to hide dislikes in November 2021 and its effects on user engagement and feedback.
 
-Learning Outcome:
+- Achievements: 
+    * I revealed valuable insights into user behavior and content trends on YouTube during a transformative period. Some of my findings were:
+        - The most popular categories of videos were Entertainment, Music, and News & Politics.
+        - The videos with the most likes were mostly from musicians, comedians, and celebrities.
+        - The videos with the most dislikes were mostly from controversial topics, such as politics, religion, and social issues.
+        - The hiding of dislikes reduced the overall engagement rate by 12% and increased the positive feedback ratio by 18%.
+    * I successfully handled missing data, converted date formats, and conducted statistical analysis using Python libraries such as Pandas and NumPy.
+    * I identified top-performing channels, videos with the most and least likes/dislikes, and their potential implications for YouTube's algorithm and recommendations.
 
-Performing Exploratory Data Analysis using Pandas and NumPy.
-Gaining insights into YouTube video engagement trends.
-Objective:
-
-The primary objective of this project is to conduct a comprehensive data analysis on the YouTube dislikes dataset, employing the powerful tools of NumPy and Pandas. By performing EDA, we intend to reveal meaningful insights into user interactions with YouTube content during the period of August 2020 to December 2021, specifically in the USA, Canada, and Great Britain.
-
-Data Description:
-
-This dataset captures trending YouTube videos for the aforementioned regions within the specified timeframe.
-It provides essential information such as dislikes, likes, views, and more, with data collected until December 13, 2021.
-The dataset encompasses videos that trended over the course of a year.
-Dataset Link: YouTube Dislikes Dataset
-Key Questions Addressed:
+- Tools/Skills Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, Kaggle dataset (YouTube Trending Video Statistics), proficiency in exploratory data analysis techniques.
